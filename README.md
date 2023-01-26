@@ -1,3 +1,3 @@
 # **UNIT tepmlate**
 
-author: VPetras
+author: VPetras, úpravy Jan Trávníček 
